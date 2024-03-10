@@ -32,8 +32,8 @@ The models are evaluated based on accuracy, precision, recall, F1 score, and ROC
 This project was developed by a team of students as part of a machine learning coursework. Contributions, suggestions, and improvements are welcome.
 
 ## Authors
-- Ευθυμίου Βασίλειος
-- Παπαδόπουλος Νικόλαος
-- Τζελαλής Γεώργιος
-- Τσώνη Σταυρούλα
+- Efthymiou Vasileios
+- Papadopoulos Nikolaos
+- Tzelalis Georgios
+- Tsoni Stavroula
 
